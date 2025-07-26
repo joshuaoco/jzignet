@@ -1,0 +1,13 @@
+.{
+    .name = .jzignet,
+    .version = "0.7.5",
+    .fingerprint = 0x276bf4194b286937,
+    .minimum_zig_version = "0.13.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "c",
+    },
+}

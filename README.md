@@ -72,6 +72,11 @@ for this.
     },
 }
 ```
+  Alternatively you can use the `git+https` backend, this will insert the required dependency into your `build.zig.zon`.
+  
+```
+zig fetch --save git+https://git.sr.ht/~greenfork/jzignet
+```
 
 2. Add this to `build.zig`.
 
