@@ -17,7 +17,7 @@
     // modify the field.
     .fingerprint = 0x276bf4190ccbe837,
 
-    .minimum_zig_version = "0.14.0",
+    .minimum_zig_version = "0.15.0",
 
     .paths = .{
         "build.zig",
