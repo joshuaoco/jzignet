@@ -60,7 +60,7 @@ for this.
    jzignet as a dependency.
 
 ```bash
-zig fetch --save https://github.com/greenfork/jzignet/archive/0.8.0.tar.gz
+zig fetch --save https://github.com/greenfork/jzignet/archive/0.8.9.tar.gz
 ```
 
 2. Add this to `build.zig`.
